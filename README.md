@@ -1,3 +1,5 @@
+https://public.tableau.com/app/profile/emaediong.joseph/viz/HRANALYTICSDASHBOARD_16986785560300/HRANALYTICSDASHBOARD
+
 # HR-ANALYTICS
 
 ## MeriSKILL Internship Project
